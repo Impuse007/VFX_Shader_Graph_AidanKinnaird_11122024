@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
-    path: Assets/VFX/Portal.unity
+    path: Assets/Scenes/Portal.unity
     guid: a80513659337bc74ca3f003cfc06449e
   m_configObjects: {}
